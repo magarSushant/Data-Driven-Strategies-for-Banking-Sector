@@ -39,4 +39,5 @@ In an era where data is the new currency, the ability to harness **big data** an
 
 ---
 
-[Read the Full Report](#) (Link to the report goes here)
+[Read the Full Report](https://github.com/magarSushant/Data-Driven-Strategies-for-Banking-Sector/blob/main/Data-Driven%20Innovation%20in%20Banking.pdf)
+
